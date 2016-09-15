@@ -1,0 +1,6 @@
+{
+  "name": "Stress-and-strain",
+  "tagline": "Jupyter notebooks on stress and strain for education",
+  "body": "# Stress and Strain\r\nThis repository contains two example Jupyter notebooks dealing with deformation/shearing of bodys.  \r\nThe notebooks are inspired by lecture material from the [GED group](http://www.ged.rwth-aachen.de/) at RWTH Aachen University.  \r\n\r\nUse the following binder link to get started:\r\n[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/japhiolite/stress-and-strain)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
