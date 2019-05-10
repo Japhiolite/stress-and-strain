@@ -4,3 +4,5 @@ The notebooks are inspired by lecture material from the [GED group](http://www.g
 
 Use the following binder link to get started:
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/japhiolite/stress-and-strain)
+
+![strain_ellipse](imgs/strain_ellipse.png)
